@@ -1,1 +1,1 @@
-# chatbot
+A RAG-based Query Suggestion Chatbot with Chain of Thought for WordPress Sites
